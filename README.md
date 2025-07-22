@@ -5,7 +5,7 @@
 
 ## 📫 連絡先
 - Email: ishinao@fhs.kindai.ac.jp
-
+- facebook: https://www.facebook.com/ishinao0227/
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ishinao0227&show_icons=true)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
