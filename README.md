@@ -6,8 +6,7 @@
 - Git/GitHub
 
 ## 📫 連絡先
-- Twitter: [@example](https://twitter.com/example)
-- Email: example@email.com
+- Email: ishinao@fhs.kindai.ac.jp
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ishinao0227&show_icons=true)
